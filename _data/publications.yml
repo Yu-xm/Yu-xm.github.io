@@ -1,25 +1,15 @@
 main:
 
-  - title: "Similarity-aware multimodal prompt learning for fake news detection."
-    authors: Ye Jiang, <strong>Xiaomin Yu</strong>, Yimin Wang*, Xiaoman Xu, Xingyi Song, Diana Maynard (*Corresponding authors)
-    # conference_short: MICCAI
-    conference: Information Sciences.
-    pdf: https://arxiv.org/pdf/2304.04187.pdf
-    code: https://github.com/Yu-xm/OurPaper.git
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/SAMPLE.png
-    notes: Accepted
-
-  - title: "Source-Free Domain Adaptation in Graph Transfer Learning."
-    authors: Ziyue Qiao†, <strong>Xiaomin Yu</strong>†, Weiyu Guo, Xiao Luo, and Hui Xiong* (Fellow, IEEE) (†Equal contribution)
+  - title: "Fake Artificial Intelligence Generated Contents (FAIGC): A Survey of Theories, Detection Methods, and Opportunities."
+    authors: <strong>Xiaomin Yu</strong>†, Yezhaohui Wang†, Yanfang Chen*, Zhen Tao, Dinghao Xi, Shichao Song, Simin Niu
     # conference_short: ECCV
-    conference:  IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>.
+    # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     # pdf: https://arxiv.org/pdf/2402.17298.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Under Review
-    image: ./assets/img/SFGDA.png
+    image: ./assets/img/FAIGC.png
 
   - title: "ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks."
     authors: Yang Liu,  <strong>Xiaomin Yu</strong>, Gongyu Zhang, Christos Bergeles, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin
@@ -32,10 +22,19 @@ main:
     notes: Under Review
     image: ./assets/img/ArcSion.png
 
+  - title: "Source-Free Domain Adaptation in Graph Transfer Learning."
+    authors: Ziyue Qiao†, <strong>Xiaomin Yu</strong>†, Weiyu Guo, Xiao Luo, and Hui Xiong* (Fellow, IEEE) (†Equal contribution)
+    # conference_short: ECCV
+    conference:  IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>.
+    # pdf: https://arxiv.org/pdf/2402.17298.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Under Review
+    image: ./assets/img/SFGDA.png
 
-
-  - title: "Fake Artificial Intelligence Generated Contents (FAIGC): A Survey of Theories, Detection Methods, and Opportunities."
-    authors: <strong>Xiaomin Yu</strong>† and Yezhaohui Wang†, Yanfang Chen*, Zhen Tao, Dinghao Xi, Shichao Song, and Simin Niu
+  - title: "SpikeMo: Enhancing Emotion Recognition with Spiking Temporal Dynamics in Multimodal Conversations."
+    authors: <strong>Xiaomin Yu</strong>, Ming Guo, Xiangrun Li, Qiyu Sheng, Wenrui Li, Ye Jiang
     # conference_short: ECCV
     # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     # pdf: https://arxiv.org/pdf/2402.17298.pdf
@@ -43,5 +42,14 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Under Review
-    image: ./assets/img/FAIGC.png
-  
+    image: ./assets/img/SpikEmo.png
+
+  - title: "Similarity-aware multimodal prompt learning for fake news detection."
+    authors: Ye Jiang, <strong>Xiaomin Yu</strong>, Yimin Wang*, Xiaoman Xu, Xingyi Song, Diana Maynard (*Corresponding authors)
+    # conference_short: MICCAI
+    conference: Information Sciences.
+    pdf: https://arxiv.org/pdf/2304.04187.pdf
+    code: https://github.com/Yu-xm/OurPaper.git
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/SAMPLE.png
+    notes: Accepted
