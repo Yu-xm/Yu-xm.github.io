@@ -22,5 +22,3 @@ Additionally, the research directions I hope to explore in the future include:
 - **Embodied AI.**
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
