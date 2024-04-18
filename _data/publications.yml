@@ -20,7 +20,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Under Review
-    image: ./assets/img/ArcSion.png
+    image: ./assets/img/ArcSin.png
 
   - title: "Source-Free Domain Adaptation in Graph Transfer Learning."
     authors: Ziyue Qiao†, <strong>Xiaomin Yu</strong>†, Weiyu Guo, Xiao Luo, and Hui Xiong* (Fellow, IEEE) (†Equal contribution)
