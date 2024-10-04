@@ -1,12 +1,23 @@
 main:
 
-  - title: "Fake Artificial Intelligence Generated Contents (FAIGC): A Survey of Theories, Detection Methods, and Opportunities."
-    authors: <strong>Xiaomin Yu</strong>†, Yezhaohui Wang†, Yanfang Chen*, Zhen Tao, Dinghao Xi, Shichao Song, Simin Niu
-    # conference_short: ECCV
-    # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+  - title: "CubeRobot: Grounding Language in Rubik’s Cube Manipulation via Vision-Language Model."
+    authors: Feiyang Wang†, <strong>Xiaomin Yu</strong>†, Celestine He*, Wangyu Wu
+    conference_short: <strong> ICASSP 2025 </strong>
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing, 2025.
     # pdf: https://arxiv.org/pdf/2402.17298.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Under Review
+    image: ./assets/img/FAIGC.png
+
+  - title: "Fake Artificial Intelligence Generated Contents (FAIGC): A Survey of Theories, Detection Methods, and Opportunities."
+    authors: <strong>Xiaomin Yu</strong>†, Yezhaohui Wang†, Yanfang Chen*, Zhen Tao, Dinghao Xi, Shichao Song, Simin Niu
+    # conference_short: 
+    # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    # pdf: https://arxiv.org/pdf/2402.17298.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://arxiv.org/abs/2405.00711
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Under Review
     image: ./assets/img/FAIGC.png
@@ -22,10 +33,10 @@ main:
     notes: Under Review
     image: ./assets/img/ArcSin.png
 
-  - title: "Source-Free Domain Adaptation in Graph Transfer Learning."
+  - title: "Adapting Graph Models via Target Integrity Assessment and Source Distribution Hypothesis."
     authors: Ziyue Qiao†, <strong>Xiaomin Yu</strong>†, Weiyu Guo, Xiao Luo, and Hui Xiong* (Fellow, IEEE) (†Equal contribution)
-    # conference_short: ECCV
-    conference:  IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>.
+    conference_short: <strong>TNNLS</strong>
+    conference:  IEEE Transactions on Neural Networks and Learning Systems <strong></strong>.
     # pdf: https://arxiv.org/pdf/2402.17298.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -33,12 +44,12 @@ main:
     notes: Under Review
     image: ./assets/img/SFGDA.png
 
-  - title: "SpikeMo: Enhancing Emotion Recognition with Spiking Temporal Dynamics in Multimodal Conversations."
+  - title: "SpikEmo: Enhancing Emotion Recognition Ability with Spiking Temporal Dynamics in Conversations."
     authors: <strong>Xiaomin Yu</strong>, Ming Guo, Xiangrun Li, Qiyu Sheng, Wenrui Li, Ye Jiang
-    # conference_short: ECCV
-    # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    conference_short: <strong> ICASSP 2025 </strong>
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing, 2025.
     # pdf: https://arxiv.org/pdf/2402.17298.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/Yu-xm/SpikEmo/tree/main
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Under Review
